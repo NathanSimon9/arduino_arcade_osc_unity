@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class InputProcess : MonoBehaviour
+
+
 {
 
     public GameManager gameManager;

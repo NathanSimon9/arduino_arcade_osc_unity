@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-flappybird.sln"
+    "dotnet.defaultSolution": "unity-flappybird-main.sln"
 }
